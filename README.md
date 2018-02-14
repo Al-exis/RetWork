@@ -58,16 +58,6 @@ The early prototype was developed with Unity game engine and featured a list of 
 	<img src="doc/Web_2.png" height="200">
 </p>
 
-## What comes next
-
-Additional features that could potentially be implemented:
-* Use an online database instead of a locally-stored file
-
-EXAMPLES FROM ANOTHER PROJECT:
-* Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
-* Advanced feedback to the user using fuzzy logic
-* Automatic ingredients ordering to local groceries with home delivery
-
 ## Awards
 
 This project won the second place of the GovTech Singapore Hackathon 2017, a 3-days event focused on idea development and implementation.
