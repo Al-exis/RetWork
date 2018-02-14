@@ -12,7 +12,7 @@ This poses an imminent demographic challenge to the country’s economy, which i
 
 A communication system connects employers and retired employees to help them become re-employed, thus contributing to themselves and to the economy of the country. These connecting services are a website and an app, both of which act as search engines for specific job offers that have been posted.
 
-The website allows employers to post job offers into the database and includes more complex search filters. The mobile app can be used from the phone on the move and to call directly the employers. MAYBE SAY THAT BOTH OF THEM ARE REALLY ACCESSIBLE AND BLA BLA BECAUSE OF THE TECHNOLOGY GAP.
+The website allows employers to post job offers into the database and includes more complex search filters. The mobile app can be used from the phone on the move and to call directly the employers.
 
 <p align="center">
 	<img src="doc/Slide_1.png" height="250">
