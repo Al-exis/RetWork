@@ -41,7 +41,7 @@ The early prototype was developed with Unity game engine and featured a list of 
 
 ## Website
 
-BRIEF DESCRIPTION ::: Andres Lulli
+Introduce brief descrption here -> Andres
 
 <p align="center">
 	<img src="doc/Web_1.png" height="200">
