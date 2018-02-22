@@ -41,17 +41,7 @@ The early prototype was developed with Unity game engine and featured a list of 
 
 ## Website
 
-ADAPT TO THE WEBSITE PART:
-Main features:
-* Interactive and simple UI with enhanced accessibility
-* Substantial amount of job offers accessed on a remote database
-* Keyword search
-* Online account management
-* Share interesting offers with family and friends
-* Employee users will also be able to post, and not only employers
-
-ADAPT TO THE WEBSITE PART:
-The early prototype was developed with Unity game engine and featured a list of 34 job offers.
+BRIEF DESCRIPTION ::: Andres Lulli
 
 <p align="center">
 	<img src="doc/Web_1.png" height="200">
